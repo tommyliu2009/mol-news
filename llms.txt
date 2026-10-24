@@ -4,7 +4,7 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-10-24（每日自動更新）
+- 更新：2026-10-25（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
@@ -20,6 +20,9 @@
 - 2026-10-22 職安署推動科技防災與創新工法 從源頭降低營造施工風險：https://www.osha.gov.tw/48110/48417/48419/213767/post
 - 2026-10-22 營造作業安全訓練(職安卡)新制上路 勞動部強化教材、數位管理及授課品質：https://www.osha.gov.tw/48110/48417/48419/213772/post
 - 2026-10-22 曾從事特定有害作業的勞工，每年可申請健康追蹤檢查：https://www.bli.gov.tw/0110294.html
+- 2026-10-22 讓工作更適合人！中彰投分署推職務再設計助中高齡勞工更省力：https://tcnr.wda.gov.tw/News_Content.aspx?n=C2DBB70704AC1B43&sms=67F4A482298C5D8E&s=0A2E3B341F29A6D9
+- 2026-10-22 實際從事農業生產工作證明文件核發要點：https://www.bli.gov.tw/0108784.html
+- 2026-10-22 外看臨時請假不慌張 多元陪伴照顧補空窗：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19483
 - 2026-10-21 本分署自即日起受理「116年度接受委託辦理訓練」申請。：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=50FF94C3BAC11C6E
 - 2026-10-21 連續11年調升最低工資，檢附電子政策圖文說明資料供參：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=FC3D70C5A9B68D78
 - 2026-10-21 本署中區職業安全衛生中心訂於115年11月19日(星期四)及11月26日(星期四)9時至16時於7樓展示室(地址：臺中市南屯區黎明路二段501號)辦理2場次「營造作業人員臺灣職安卡安全衛生教育訓練」，歡迎營造業作業人員及無一定雇主勞工及自營作業者踴躍報名參加。：https://www.osha.gov.tw/48110/48417/48425/213716/post
@@ -31,9 +34,6 @@
 - 2026-10-20 勞工保險費及勞工退休金「電子收據」已上線，申辦簡便，歡迎多加利用!：https://events.bli.gov.tw/Activities/202610_04/
 - 2026-10-20 116年【 企業在職訓練補助計畫暨就業服務資源推動說明會】已開放報名｜桃園場｜❗：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=0C58EB86F8C71B0B
 - 2026-10-20 旅宿業找不到工？中高齡求職沒方向？勞動部「旅宿業中高齡就業指引」發布！：https://www.mol.gov.tw/1607/1632/1633/99669/
-- 2026-10-20 115年6月至7月公私立單位連續未足額單位名單：https://orsd.wda.gov.tw/news/detail/1099
-- 2026-10-20 桃竹苗「拾月山海・多元永續生活節」熱鬧登場 32攤位齊聚新竹北大公園：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=20BECB90414C1245
-- 2026-10-20 桃竹苗分署陪伴毒癮更生人重返職場 找回穩定人生 走過風雨迎新生：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=DB5B0DA3B85B5CEA
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

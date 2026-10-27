@@ -4,11 +4,19 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-10-27（每日自動更新）
+- 更新：2026-10-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-27 新竹就業中心訂於11月19日(星期四)10:00~12:00，辦理：https://thmr.wda.gov.tw/News_Content.aspx?n=7737DC0A29BAF37F&sms=EC0931DF6A3357E3&s=BFC3226384896AB3
+- 2026-10-27 企業人力資源提升計畫、充電起飛計畫【計畫提案撰寫說明會】(桃園場) 已開放報名❗：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=524A30687842799D
+- 2026-10-27 人造石加工粉塵恐危害肺部健康，勞動部籲落實源頭防護預防矽肺症：https://www.osha.gov.tw/48110/48417/48419/214823/post
+- 2026-10-27 第19屆全國身心障礙者技能競賽暨國手選拔賽圓滿落幕！ 競賽英雄榜揭曉！ 25位國手蓄勢待發迎戰國際賽事：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19488
+- 2026-10-27 勞動部勞工保險局116年度委託協助處理積欠工資墊償基金業務作業案：https://www.bli.gov.tw/0110297.html
+- 2026-10-27 公告本分署自辦在職訓練115年新增班人工智慧與機器學習班(週六)延長報名時間事宜。：https://thmr.wda.gov.tw/News_Content.aspx?n=CC9A24D182DB22FD&sms=3BC26743E929B010&s=BD4B9C33D77AB4EC
+- 2026-10-27 基隆市政府政風處舉辦基隆市政府115年「清廉出招，敢拍來Shorts!」校園倫理短影音競賽之得獎作品：https://www.osha.gov.tw/48110/48461/48591/48593/213835/post
+- 2026-10-27 2026反賄選愛臺灣公益宣導影片-出遊篇：https://www.osha.gov.tw/48110/48461/48591/48593/213832/post
 - 2026-10-23 對於台中及桃園美光工會勞資爭議處理情形，本部說明如下：https://www.mol.gov.tw/1607/1632/1633/99723/post
 - 2026-10-23 【經公開評選或公開徵求之限制性招標】116至118年度委託經營業務徵求法律顧問案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-3-71143035.xml
 - 2026-10-23 【經公開評選或公開徵求之限制性招標】勞動部勞工保險局116年度委託協助處理積欠工資墊償基金業務作業案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-3-71143149.xml
@@ -26,14 +34,6 @@
 - 2026-10-22 【訊息公告】新修正「產業新尖兵計畫」訓練課程辦理原則：https://tcnr.wda.gov.tw/News_Content.aspx?n=9CDFC65181CC2AEA&sms=68798FA6FAE753EC&s=3CB8C51B711D842C
 - 2026-10-22 52. 擬參選人或候選人僱用從事競選活動工作人員需要加保嗎？：https://www.bli.gov.tw/0110129.html
 - 2026-10-22 115年度11月份創業研習課程：https://www.wda.gov.tw/News_Content.aspx?n=6&sms=10294&s=19478
-- 2026-10-22 強颱薔琵逼近，勞動部強調，雇主若要求勞工出勤，應負通勤協助責任，且針對戶外工作、搶修等外勤作業，勞動部有六大提醒：https://www.mol.gov.tw/1607/1632/1633/99713/?cprint=pt
-- 2026-10-22 職安署推動科技防災與創新工法 從源頭降低營造施工風險：https://www.osha.gov.tw/48110/48417/48419/213767/post
-- 2026-10-22 營造作業安全訓練(職安卡)新制上路 勞動部強化教材、數位管理及授課品質：https://www.osha.gov.tw/48110/48417/48419/213772/post
-- 2026-10-22 曾從事特定有害作業的勞工，每年可申請健康追蹤檢查：https://www.bli.gov.tw/0110294.html
-- 2026-10-22 讓工作更適合人！中彰投分署推職務再設計助中高齡勞工更省力：https://tcnr.wda.gov.tw/News_Content.aspx?n=C2DBB70704AC1B43&sms=67F4A482298C5D8E&s=0A2E3B341F29A6D9
-- 2026-10-22 實際從事農業生產工作證明文件核發要點：https://www.bli.gov.tw/0108784.html
-- 2026-10-22 外看臨時請假不慌張 多元陪伴照顧補空窗：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19483
-- 2026-10-22 【經公開評選或公開徵求之限制性招標】116年度在校青年職業訓練相關計畫彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261022&fn=TIQ-3-71141355.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

@@ -4,11 +4,18 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-10-28（每日自動更新）
+- 更新：2026-10-29（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-28 職業安全衛生署函頒「緊急應變措施指引」：https://www.osha.gov.tw/48110/48417/48423/214855/?cprint=pt
+- 2026-10-28 [職前甄試結果公告]115年度第6梯次「電腦輔助機械繪圖與智慧化量測第2期」等8班甄試結果名單公告：https://kpptr.wda.gov.tw/News_Content.aspx?n=47645573746633F4&sms=52387778D34E4FE3&s=E2DE370C92292478
+- 2026-10-28 【錄訓公告】115年度（泰山）職前訓練「網路規劃架設第2期」錄訓名單暨錄訓報到通知單：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=485942419332C50C&sms=F7376EA5ABF578F3&s=19780B96C24D06AE
+- 2026-10-28 一針一線縫出雙金！桃竹苗分署身障技能競賽勇奪10面獎牌：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=82B069BBDFDDCF55
+- 2026-10-28 本署中區職業安全衛生中心與台中市泥水業職業工會訂於115年11月25日(星期三)9時至16時於本中心7樓展示室(臺中市南屯區黎明路2段501號)共同辦理「115年度營造業相關職業工會會員安全衛生教育訓練」，敬邀營造作業人員、無一定雇主或自營作業者洽職業工會：https://www.osha.gov.tw/48110/48417/48425/214841/post
+- 2026-10-28 留住資深經驗、傳承專業價值 北分署116年度「繼續僱用高齡者補助計畫」申請開跑：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=FE04360B3F5FF536&sms=45F7BA4F91C26F12&s=AE22B91487AC34FF
+- 2026-10-28 產業新尖兵計畫補助最高10萬元訓練費，每月再發8千元學習獎勵金！：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19491
 - 2026-10-27 新竹就業中心訂於11月19日(星期四)10:00~12:00，辦理：https://thmr.wda.gov.tw/News_Content.aspx?n=7737DC0A29BAF37F&sms=EC0931DF6A3357E3&s=BFC3226384896AB3
 - 2026-10-27 企業人力資源提升計畫、充電起飛計畫【計畫提案撰寫說明會】(桃園場) 已開放報名❗：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=524A30687842799D
 - 2026-10-27 人造石加工粉塵恐危害肺部健康，勞動部籲落實源頭防護預防矽肺症：https://www.osha.gov.tw/48110/48417/48419/214823/post
@@ -17,6 +24,9 @@
 - 2026-10-27 公告本分署自辦在職訓練115年新增班人工智慧與機器學習班(週六)延長報名時間事宜。：https://thmr.wda.gov.tw/News_Content.aspx?n=CC9A24D182DB22FD&sms=3BC26743E929B010&s=BD4B9C33D77AB4EC
 - 2026-10-27 基隆市政府政風處舉辦基隆市政府115年「清廉出招，敢拍來Shorts!」校園倫理短影音競賽之得獎作品：https://www.osha.gov.tw/48110/48461/48591/48593/213835/post
 - 2026-10-27 2026反賄選愛臺灣公益宣導影片-出遊篇：https://www.osha.gov.tw/48110/48461/48591/48593/213832/post
+- 2026-10-27 銀JOIN未來！11/7桃竹苗銀髮中心與您相約苗栗龍鳳漁港健走免費體驗職涯攤位闖關再抽iPad、空氣清淨機：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=B0115729BA3E0910
+- 2026-10-27 【經公開評選或公開徵求之限制性招標】116年度特定對象暨弱勢者就業服務整合計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261027&fn=TIQ-3-71144223.xml
+- 2026-10-27 【經公開評選或公開徵求之限制性招標】116年訓練消防安全設備維護工作案開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261027&fn=TIQ-3-71144224.xml
 - 2026-10-23 對於台中及桃園美光工會勞資爭議處理情形，本部說明如下：https://www.mol.gov.tw/1607/1632/1633/99723/post
 - 2026-10-23 【經公開評選或公開徵求之限制性招標】116至118年度委託經營業務徵求法律顧問案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-3-71143035.xml
 - 2026-10-23 【經公開評選或公開徵求之限制性招標】勞動部勞工保險局116年度委託協助處理積欠工資墊償基金業務作業案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-3-71143149.xml
@@ -24,16 +34,6 @@
 - 2026-10-23 【經公開評選或公開徵求之限制性招標】116年分署及訓練場館環境清潔勞務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-3-71143316.xml
 - 2026-10-23 【經公開評選或公開徵求之限制性招標】116年度「在職訓練彙管業務服務」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-3-71143551.xml
 - 2026-10-23 【決標】115年度及116年度企業落實公平招募輔導計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=BDM-1-71313710.xml
-- 2026-10-23 【公開取得報價單或企劃書】116年度園藝景觀環境維護暨綠美化施作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-11-71142361.xml
-- 2026-10-23 【公開取得報價單或企劃書】條平司辦公室及其他空間調整工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=ttd-71361772.xml
-- 2026-10-23 【公開取得報價單或企劃書】116年度分署暨訓練場飲水機保養及維修服務案開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=TIQ-11-71143648.xml
-- 2026-10-23 【決標】116年度委託民間機構辦理電腦應用類職業訓練：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261023&fn=BDM-1-71313754.xml
-- 2026-10-22 公告116年度上半年「產業人才投資方案」二計畫訓練課程延長受理申請。：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=16162302E36378E0
-- 2026-10-22 勞動部勞工保險局116年度委託協助處理行政執行、欠費清理及提繳事務作業案：https://www.bli.gov.tw/0110296.html
-- 2026-10-22 勞動部勞工保險局116年度文書處理及農保事務處理作業承攬案：https://www.bli.gov.tw/0110295.html
-- 2026-10-22 【訊息公告】新修正「產業新尖兵計畫」訓練課程辦理原則：https://tcnr.wda.gov.tw/News_Content.aspx?n=9CDFC65181CC2AEA&sms=68798FA6FAE753EC&s=3CB8C51B711D842C
-- 2026-10-22 52. 擬參選人或候選人僱用從事競選活動工作人員需要加保嗎？：https://www.bli.gov.tw/0110129.html
-- 2026-10-22 115年度11月份創業研習課程：https://www.wda.gov.tw/News_Content.aspx?n=6&sms=10294&s=19478
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

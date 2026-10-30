@@ -4,11 +4,24 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-10-30（每日自動更新）
+- 更新：2026-10-31（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-31 行政院新聞傳播處「運動產業發展綱領」政策電子圖文說明資料：https://www.osha.gov.tw/48110/48461/167934/213155/post
+- 2026-10-31 行政院新聞傳播處「支持及壯大中小微企業方案」政策電子圖文說明資料：https://www.osha.gov.tw/48110/48461/167934/213163/post
+- 2026-10-31 臺東縣政府「115年國慶焰火在臺東」：https://www.osha.gov.tw/48110/48461/167934/213151/post
+- 2026-10-30 新竹就業中心訂於11月05日、11月12日、11月19日、11月26日(星期四)13:30~16:00，辦理：https://thmr.wda.gov.tw/News_Content.aspx?n=DB16A30E69ED016B&sms=EC0931DF6A3357E3&s=CF3965A7D869596A
+- 2026-10-30 北分署大專就業學程x企業預聘 產學交流提早對接人才需求：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=FE04360B3F5FF536&sms=45F7BA4F91C26F12&s=B14EBD65055DF5B7
+- 2026-10-30 勞動部勞工保險局116年辦公場所物業管理專業服務案：https://www.bli.gov.tw/0110304.html
+- 2026-10-30 勞動部修正發布承攬管理檢查注意事項 強化風險評估、施工協調及統合管理，落實源頭防災：https://www.osha.gov.tw/48110/48417/48419/214908/?cprint=pt
+- 2026-10-30 年底收成結算別忘老後保障！農退儲金提繳比率11月開放調整：https://www.bli.gov.tw/0110300.html
+- 2026-10-30 罹癌切除器官免等6個月，出院即可申請勞保失能給付：https://www.bli.gov.tw/0110299.html
+- 2026-10-30 迎接退休生活先搞懂！勞保老年給付申請六大問一次看：https://www.bli.gov.tw/0110301.html
+- 2026-10-30 職安署即日起辦理115年企業永續報告公開職業健康與安全績效主動評比實施計畫：https://www.osha.gov.tw/48110/48207/134603/199297/214889/post
+- 2026-10-30 澄清「婦女再就業計畫」未委託或補助第三方辦理說明會、開設自主訓練課程、代辦申請等相關事宜：https://www.mol.gov.tw/1607/1632/1633/99885/
+- 2026-10-30 【澄清稿】澄清「婦女再就業計畫」未委託或補助第三方辦理說明會、開設自主訓練課程、代辦申請等相關事宜：https://www.mol.gov.tw/1607/1632/2660/99889/post
 - 2026-10-29 勞動部116年度施政計畫：https://www.wda.gov.tw/News_Content.aspx?n=33&sms=10307&s=19412
 - 2026-10-29 高分署推動大專學程青年預聘計畫 產學聯手育才 打造青年職涯「薪」舞台：https://kpptr.wda.gov.tw/News_Content.aspx?n=CD0EC8D01432D27B&sms=90DB06FF66BF4D00&s=1A78C457D8B10975
 - 2026-10-29 最低工資審議相關會議：https://www.mol.gov.tw/1607/28162/28166/28180/99861/70457/lpsimplelist
@@ -17,23 +30,10 @@
 - 2026-10-29 【聲明】有關社群軟體流傳短影音「移工提告雇主公司老闆得付律師、翻譯費」為錯誤訊息，勞動部嚴正澄清，目前無此規定。：https://www.mol.gov.tw/1607/1632/2660/99858/post
 - 2026-10-29 【訊息公告】第57屆全國技能競賽中區分區技能競賽簡章：https://tcnr.wda.gov.tw/News_Content.aspx?n=9CDFC65181CC2AEA&sms=68798FA6FAE753EC&s=A447FB9366537893
 - 2026-10-29 本署中區職業安全衛生中心與臺中市電器商業同業公會訂於115年12月8日(星期二)9時至16時於7樓展示室(地址：臺中市南屯區黎明路二段501號)共同辦理「營造作業人員臺灣職安卡安全衛生教育訓練」，敬邀營造作業人員、無一定雇主或自營作業者洽工會報名參加。：https://www.osha.gov.tw/48110/48417/48425/213738/post
-- 2026-10-28 職業安全衛生署函頒「緊急應變措施指引」：https://www.osha.gov.tw/48110/48417/48423/214855/?cprint=pt
-- 2026-10-28 [職前甄試結果公告]115年度第6梯次「電腦輔助機械繪圖與智慧化量測第2期」等8班甄試結果名單公告：https://kpptr.wda.gov.tw/News_Content.aspx?n=47645573746633F4&sms=52387778D34E4FE3&s=E2DE370C92292478
-- 2026-10-28 【錄訓公告】115年度（泰山）職前訓練「網路規劃架設第2期」錄訓名單暨錄訓報到通知單：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=485942419332C50C&sms=F7376EA5ABF578F3&s=19780B96C24D06AE
-- 2026-10-28 一針一線縫出雙金！桃竹苗分署身障技能競賽勇奪10面獎牌：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=82B069BBDFDDCF55
-- 2026-10-28 本署中區職業安全衛生中心與台中市泥水業職業工會訂於115年11月25日(星期三)9時至16時於本中心7樓展示室(臺中市南屯區黎明路2段501號)共同辦理「115年度營造業相關職業工會會員安全衛生教育訓練」，敬邀營造作業人員、無一定雇主或自營作業者洽職業工會：https://www.osha.gov.tw/48110/48417/48425/214841/post
-- 2026-10-28 留住資深經驗、傳承專業價值 北分署116年度「繼續僱用高齡者補助計畫」申請開跑：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=FE04360B3F5FF536&sms=45F7BA4F91C26F12&s=AE22B91487AC34FF
-- 2026-10-28 產業新尖兵計畫補助最高10萬元訓練費，每月再發8千元學習獎勵金！：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19491
-- 2026-10-28 【甄試通知】115年度（泰山）「品牌包裝及視覺設計班第2期」甄試通知單暨注意事項：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=B75E93A3DAB23A99&sms=6BE42A23A2335F4B&s=4A7C2D8C57F04F2B
-- 2026-10-28 【決標】「114-116年分署園區、訓練場及各中心清潔委外案」第三次契約變更：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71314923.xml
-- 2026-10-28 【決標】桌上型繪圖工作站64組及教室雲端管理系統1套採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71315393.xml
-- 2026-10-28 【決標】115年訓練場冷氣新增及汰換案(五股、泰山及基隆訓練場)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71315529.xml
-- 2026-10-28 【經公開評選或公開徵求之限制性招標】116年度雲嘉南區銀髮人才資源中心服務計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=TIQ-3-71144476.xml
-- 2026-10-28 【經公開評選或公開徵求之限制性招標】116年度高屏澎東區產業AI導入現況與人力需求調查計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=TIQ-3-71144619.xml
-- 2026-10-28 【經公開評選或公開徵求之限制性招標】116年至117年微型創業協助計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=TIQ-3-71145154.xml
-- 2026-10-28 【決標】116年賈桃樂學習主題館策展暨空間優化勞務委託案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=BDM-1-71315197.xml
-- 2026-10-28 【經公開評選或公開徵求之限制性招標】委託辦理「116年中彰投區身心障礙者職業重建服務資源中心」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=TIQ-3-71145085.xml
-- 2026-10-28 【經公開評選或公開徵求之限制性招標】116年度產業人才投資方案暨訓練推廣-彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261028&fn=TIQ-3-71145340.xml
+- 2026-10-29 歷年最低工資/基本工資調整：https://www.mol.gov.tw/1607/28162/28166/28180/99861/28184/29016/
+- 2026-10-29 職安署訂於115年11月10日至20日分場次辦理「115年度勞工健康保護管理報備資訊系統操作說明會」：https://www.osha.gov.tw/48110/48417/48425/214845/?cprint=pt
+- 2026-10-29 【決標】五股職業訓練場5樓工場地板、8樓宿舍及多功能教室修繕工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261029&fn=BDM-1-71315600.xml
+- 2026-10-29 【決標】職業訓練資材管理系統功能擴充與維運案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261029&fn=BDM-1-71316858.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

@@ -4,7 +4,7 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-01（每日自動更新）
+- 更新：2026-11-02（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
@@ -26,14 +26,14 @@
 - 2026-10-30 職安署即日起辦理115年企業永續報告公開職業健康與安全績效主動評比實施計畫：https://www.osha.gov.tw/48110/48207/134603/199297/214889/post
 - 2026-10-30 澄清「婦女再就業計畫」未委託或補助第三方辦理說明會、開設自主訓練課程、代辦申請等相關事宜：https://www.mol.gov.tw/1607/1632/1633/99885/
 - 2026-10-30 【澄清稿】澄清「婦女再就業計畫」未委託或補助第三方辦理說明會、開設自主訓練課程、代辦申請等相關事宜：https://www.mol.gov.tw/1607/1632/2660/99889/post
-- 2026-10-29 勞動部116年度施政計畫：https://www.wda.gov.tw/News_Content.aspx?n=33&sms=10307&s=19412
-- 2026-10-29 高分署推動大專學程青年預聘計畫 產學聯手育才 打造青年職涯「薪」舞台：https://kpptr.wda.gov.tw/News_Content.aspx?n=CD0EC8D01432D27B&sms=90DB06FF66BF4D00&s=1A78C457D8B10975
-- 2026-10-29 最低工資審議相關會議：https://www.mol.gov.tw/1607/28162/28166/28180/99861/70457/lpsimplelist
-- 2026-10-29 【聲明】有關民間團體27日針對移工雇主權益所舉辦的陳抗活動，勞動部做以下3點說明：https://www.mol.gov.tw/1607/1632/2660/99871/
-- 2026-10-29 公告第57屆全國技能競賽北區分區技能競賽簡章：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=C479519942B20C55
-- 2026-10-29 【聲明】有關社群軟體流傳短影音「移工提告雇主公司老闆得付律師、翻譯費」為錯誤訊息，勞動部嚴正澄清，目前無此規定。：https://www.mol.gov.tw/1607/1632/2660/99858/post
-- 2026-10-29 【訊息公告】第57屆全國技能競賽中區分區技能競賽簡章：https://tcnr.wda.gov.tw/News_Content.aspx?n=9CDFC65181CC2AEA&sms=68798FA6FAE753EC&s=A447FB9366537893
-- 2026-10-29 本署中區職業安全衛生中心與臺中市電器商業同業公會訂於115年12月8日(星期二)9時至16時於7樓展示室(地址：臺中市南屯區黎明路二段501號)共同辦理「營造作業人員臺灣職安卡安全衛生教育訓練」，敬邀營造作業人員、無一定雇主或自營作業者洽工會報名參加。：https://www.osha.gov.tw/48110/48417/48425/213738/post
+- 2026-10-30 促進工作平等措施介紹：https://www.mol.gov.tw/topic/6026/49654/49670/49673/
+- 2026-10-30 【公開取得報價單或企劃書】116-117年非全時公務車租賃案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-11-71147067.xml
+- 2026-10-30 【經公開評選或公開徵求之限制性招標】116年度委託辦理特定對象及弱勢者就業服務勞務需求計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71147652.xml
+- 2026-10-30 【經公開評選或公開徵求之限制性招標】116-117年度「AI智慧商務產業人才培訓據點」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71147865.xml
+- 2026-10-30 【經公開評選或公開徵求之限制性招標】115-117年叫號系統功能調整維護暨相關設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71148019.xml
+- 2026-10-30 【經公開評選或公開徵求之限制性招標】116年度勞動及職業安全衛生研究助理、行政作業及實驗室安全衛生與環境保護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71148254.xml
+- 2026-10-30 【決標】115年桃園職業訓練場堆高機訓練場整修案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=aaa-71319818.xml
+- 2026-10-30 【公開取得報價單或企劃書】116年園區監視器設備系統維運採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-11-71147264.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

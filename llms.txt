@@ -4,14 +4,26 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-02（每日自動更新）
+- 更新：2026-11-03（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-03 肯定企業推動友善職場的用心! 「2026年工作生活平衡獎」頒獎典禮—共響工作與生活幸福雙重奏：https://www.mol.gov.tw/1607/1632/1633/99992/
+- 2026-11-02 【訊息公告】「116年辦理托育人員職業訓練計畫」開放受理：https://tcnr.wda.gov.tw/News_Content.aspx?n=9CDFC65181CC2AEA&sms=68798FA6FAE753EC&s=AAF301DF11C0CA5A
+- 2026-11-02 桃竹苗分署「銀JOIN未來」11月7日竹南龍鳳漁港登場 健走活動及職訓體驗展現銀齡新活力：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=7DBB4B6F12C42932
+- 2026-11-02 職務再設計不只提供輔具，也能優化工作方法與流程 北分署協助企業打造中高齡友善職場：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=FE04360B3F5FF536&sms=45F7BA4F91C26F12&s=614FD69249D66C86
+- 2026-11-02 【聲明】針對今（2）日媒體報載以「育兒留職停薪放寬至9歲前 勞動部不贊同」為標題，是錯誤資訊，勞動部澄清如下：https://www.mol.gov.tw/1607/1632/2660/99974/post
+- 2026-11-02 【決標】116年度園藝景觀環境維護暨綠美化施作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261102&fn=BDM-1-71319436.xml
+- 2026-11-02 【決標】115~116年度勞動力發展數位課程更新重製：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261102&fn=BDM-1-71319807.xml
+- 2026-11-02 【決標】勞動部勞工保險局116年應用系統伺服主機服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261102&fn=BDM-1-71319941.xml
+- 2026-11-02 【決標】116年度例行性各類公務表冊印刷開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261102&fn=aaa-71320657.xml
+- 2026-11-02 【決標】115-117年度勞動力發展署暨所屬機關全球資訊網站功能調整及維運案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261102&fn=BDM-1-71319901.xml
+- 2026-11-02 【決標】116年度講義及海報等設計印刷及配送開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261102&fn=aaa-71320659.xml
 - 2026-11-01 可擇領勞退新制6％月退休金：https://events.bli.gov.tw/Activities/202611_02/
 - 2026-11-01 農民退休儲金提繳比率調整 申報期間開始囉！：https://events.bli.gov.tw/Activities/202611_03/
 - 2026-11-01 農保及農職保115年第2期保險費繳納期限至11月底止，請被保險人於期限前向投保農會繳納：https://events.bli.gov.tw/Activities/202611_04/
+- 2026-11-01 職業安全衛生署訂於115年12月3日(星期四)於臺北辦理「機械設備器具安全資訊網源頭管理資訊系統申辦作業暨風險評估應用系統宣導說明會」：https://www.osha.gov.tw/48110/48417/48425/213186/?cprint=pt
 - 2026-10-31 行政院新聞傳播處「運動產業發展綱領」政策電子圖文說明資料：https://www.osha.gov.tw/48110/48461/167934/213155/post
 - 2026-10-31 行政院新聞傳播處「支持及壯大中小微企業方案」政策電子圖文說明資料：https://www.osha.gov.tw/48110/48461/167934/213163/post
 - 2026-10-31 臺東縣政府「115年國慶焰火在臺東」：https://www.osha.gov.tw/48110/48461/167934/213151/post
@@ -22,18 +34,6 @@
 - 2026-10-30 勞動部修正發布承攬管理檢查注意事項 強化風險評估、施工協調及統合管理，落實源頭防災：https://www.osha.gov.tw/48110/48417/48419/214908/?cprint=pt
 - 2026-10-30 年底收成結算別忘老後保障！農退儲金提繳比率11月開放調整：https://www.bli.gov.tw/0110300.html
 - 2026-10-30 罹癌切除器官免等6個月，出院即可申請勞保失能給付：https://www.bli.gov.tw/0110299.html
-- 2026-10-30 迎接退休生活先搞懂！勞保老年給付申請六大問一次看：https://www.bli.gov.tw/0110301.html
-- 2026-10-30 職安署即日起辦理115年企業永續報告公開職業健康與安全績效主動評比實施計畫：https://www.osha.gov.tw/48110/48207/134603/199297/214889/post
-- 2026-10-30 澄清「婦女再就業計畫」未委託或補助第三方辦理說明會、開設自主訓練課程、代辦申請等相關事宜：https://www.mol.gov.tw/1607/1632/1633/99885/
-- 2026-10-30 【澄清稿】澄清「婦女再就業計畫」未委託或補助第三方辦理說明會、開設自主訓練課程、代辦申請等相關事宜：https://www.mol.gov.tw/1607/1632/2660/99889/post
-- 2026-10-30 促進工作平等措施介紹：https://www.mol.gov.tw/topic/6026/49654/49670/49673/
-- 2026-10-30 【公開取得報價單或企劃書】116-117年非全時公務車租賃案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-11-71147067.xml
-- 2026-10-30 【經公開評選或公開徵求之限制性招標】116年度委託辦理特定對象及弱勢者就業服務勞務需求計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71147652.xml
-- 2026-10-30 【經公開評選或公開徵求之限制性招標】116-117年度「AI智慧商務產業人才培訓據點」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71147865.xml
-- 2026-10-30 【經公開評選或公開徵求之限制性招標】115-117年叫號系統功能調整維護暨相關設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71148019.xml
-- 2026-10-30 【經公開評選或公開徵求之限制性招標】116年度勞動及職業安全衛生研究助理、行政作業及實驗室安全衛生與環境保護工作：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-3-71148254.xml
-- 2026-10-30 【決標】115年桃園職業訓練場堆高機訓練場整修案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=aaa-71319818.xml
-- 2026-10-30 【公開取得報價單或企劃書】116年園區監視器設備系統維運採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261030&fn=TIQ-11-71147264.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

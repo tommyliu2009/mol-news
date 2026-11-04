@@ -4,11 +4,15 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-04（每日自動更新）
+- 更新：2026-11-05（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-04 職安署訂於11月6日辦理職場霸凌防治新制之實務及因應工作坊(北部場)，歡迎各界踴躍報名參與。：https://www.osha.gov.tw/48110/48417/48425/215146/?cprint=pt
+- 2026-11-04 模範移工現身說法 見證公私攜手打造友善職場：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19517
+- 2026-11-04 勞動部勞工保險局116年業務諮詢系統資通安全升級暨維運服務案：https://www.bli.gov.tw/0110308.html
+- 2026-11-04 【訊息公告】116年辦理非營利私立就業服務機構從事就業服務臺補助計畫：https://tcnr.wda.gov.tw/News_Content.aspx?n=9CDFC65181CC2AEA&sms=68798FA6FAE753EC&s=E267F53FA8AE38EF
 - 2026-11-03 肯定企業推動友善職場的用心! 「2026年工作生活平衡獎」頒獎典禮—共響工作與生活幸福雙重奏：https://www.mol.gov.tw/1607/1632/1633/99992/
 - 2026-11-03 【聲明】 有關網路流傳影片提到「外勞十年就領勞退」，此為錯誤訊息，勞動部(11/3)說明如下：https://www.mol.gov.tw/1607/1632/2660/100011/post
 - 2026-11-03 職安署表揚局部排氣裝置優良設計案例 促進專業技術交流與實際應用：https://www.osha.gov.tw/48110/48417/48419/215114/post
@@ -30,10 +34,6 @@
 - 2026-11-03 【決標】115年網路佈線及無線網路系統建置採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=BDM-1-71320699.xml
 - 2026-11-03 【公開招標】餐飲大樓屋頂及訓練三館外牆整修工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-1-71150000.xml
 - 2026-11-03 【經公開評選或公開徵求之限制性招標】勞動部勞工保險局委託辦理116年「勞工保險費率精算及財務評估」案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-3-71150254.xml
-- 2026-11-03 【經公開評選或公開徵求之限制性招標】116年度提升青少年職涯準備計畫-彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-3-71150198.xml
-- 2026-11-03 【公開招標】115年設計製造股、動力機械股及營建管理股冷氣18台採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-1-71150764.xml
-- 2026-11-03 【公開招標】桃竹苗區銀髮人才資源中心新建工程：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-1-71150203.xml
-- 2026-11-03 【經公開評選或公開徵求之限制性招標】勞動部勞工保險局116年度委託協助處理業務電話諮詢服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261103&fn=TIQ-3-71150559.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

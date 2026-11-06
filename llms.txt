@@ -4,11 +4,22 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-06（每日自動更新）
+- 更新：2026-11-07（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-06 職災認定不再孤立無援！全台19家專責醫院打造 「診治、認定、復能」全方位守護網：https://www.mol.gov.tw/1607/1632/1633/100053/
+- 2026-11-06 勞動部與經濟部簽署合作備忘錄，攜手推動智慧減災技術：https://www.mol.gov.tw/1607/1632/1633/100067/
+- 2026-11-06 掌握產業新趨勢 引領青年精準接軌 高分署辦理重點產業輪廓報告分享會：https://kpptr.wda.gov.tw/News_Content.aspx?n=CD0EC8D01432D27B&sms=90DB06FF66BF4D00&s=C08790911B9DCB52
+- 2026-11-06 【甄試訊息】115年自辦職前訓練「巧克力與甜點輕食製作(台南)第05期」11月9日甄試注意事項：https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=55F03A1DD0968728
+- 2026-11-06 【採購公告】「委託辦理116年適性就業輔導促進就業暨強化就業諮詢服務功能計畫」採購案（案號：tcnr1150141）評選結果公告：https://tcnr.wda.gov.tw/News_Content.aspx?n=4272F75C8646AA45&sms=EAA94642D68862F3&s=14D9D29EE67902F8
+- 2026-11-06 職安署辦理首梯新進職場霸凌查察員申訴調查教育訓練，提升案件調查處理專業知能：https://www.osha.gov.tw/48110/48417/48423/215216/post
+- 2026-11-06 本署南區職業安全衛生中心訂於115年11月25日(星期三)08時30分至11時30分假臺灣菸酒股份有限公司善化啤酒廠福利大樓二樓禮堂（地址：臺南市善化區小新里成功路2號）舉辦「115年度職業安全衛生法新修法規宣導(危險性機械職業災害預防)教育訓練」：https://www.osha.gov.tw/48110/48417/48425/215220/post
+- 2026-11-06 提升在職訓練品質 北分署輔導工會從源頭優化課程、接軌產業需求：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=FE04360B3F5FF536&sms=45F7BA4F91C26F12&s=E0745E347569F636
+- 2026-11-06 本署北區職業安全衛生中心謹訂於115年11月18日假台灣自來水股份有限公司第三區管理處三樓大禮堂舉辦「缺氧/局限空間作業安全衛生教育訓練暨工安觀摩說明會」，歡迎受通知事業單位報名參加！：https://www.osha.gov.tw/48110/48417/48425/214825/post
+- 2026-11-06 活動地點： 勞動部職業安全衛生署9樓階梯教室（地址：新北市新莊區中平路439號南棟9樓）：https://www.osha.gov.tw/48110/48417/48425/215125/post
+- 2026-11-06 職安署(北區職業安全衛生中心)訂於115年12月1日(星期二)上午8時50分與連江縣政府共同辦理115年度「缺氧/局限空間危害預防與案例分析(連江縣)」，歡迎踴躍報名參加。：https://www.osha.gov.tw/48110/48417/48425/215186/post
 - 2026-11-05 【職涯團體活動】12/3(四) 年終職涯總健檢 啟動職涯發展新計畫：https://kpptr.wda.gov.tw/News_Content.aspx?n=40D375BFD09444E7&sms=5158FB5300547E09&s=155AEDF4D3AE7DE9
 - 2026-11-05 臺菲正式更新簽署直接聘僱備忘錄：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19518
 - 2026-11-05 公私協力打造友善職場 勞動部南分署職務再設計助企業穩定留才：https://yct168.wda.gov.tw/News_Content.aspx?n=CAE0AF9754BB674E&sms=FE9FE34EF32CD163&s=B161DE49E8492FC5
@@ -23,17 +34,6 @@
 - 2026-11-05 【經公開評選或公開徵求之限制性招標】116年度在校青年職業訓練相關計畫彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153004.xml
 - 2026-11-05 【經公開評選或公開徵求之限制性招標】116年度就業促進計畫-彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153269.xml
 - 2026-11-05 【經公開評選或公開徵求之限制性招標】116年度社會創新及創業專題報導文稿編撰：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153107.xml
-- 2026-11-05 【經公開評選或公開徵求之限制性招標】委託辦理「116年強化雇主團體人力資源運用計畫」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153082.xml
-- 2026-11-05 【決標】「115年分署、幼獅訓練場及銀髮中心保全人員年終獎金」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=aaa-71325326.xml
-- 2026-11-05 【公開取得報價單或企劃書】職業訓練與促進就業-116年委外印製印刷品開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=ttd-71373212.xml
-- 2026-11-04 職安署訂於11月6日辦理職場霸凌防治新制之實務及因應工作坊(北部場)，歡迎各界踴躍報名參與。：https://www.osha.gov.tw/48110/48417/48425/215146/?cprint=pt
-- 2026-11-04 模範移工現身說法 見證公私攜手打造友善職場：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19517
-- 2026-11-04 勞動部勞工保險局116年業務諮詢系統資通安全升級暨維運服務案：https://www.bli.gov.tw/0110308.html
-- 2026-11-04 【訊息公告】116年辦理非營利私立就業服務機構從事就業服務臺補助計畫：https://tcnr.wda.gov.tw/News_Content.aspx?n=9CDFC65181CC2AEA&sms=68798FA6FAE753EC&s=E267F53FA8AE38EF
-- 2026-11-04 【經公開評選或公開徵求之限制性招標】116年度辦理技能檢定監評人員數位教材製作勞務採購(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=TIQ-3-71151963.xml
-- 2026-11-04 【經公開評選或公開徵求之限制性招標】勞動部勞工保險局116年業務諮詢系統資通安全升級暨維運服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=TIQ-3-71152151.xml
-- 2026-11-04 【經公開評選或公開徵求之限制性招標】116年度連結重點產業資源整合計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=TIQ-3-71151806.xml
-- 2026-11-04 【決標】友善育兒職場補助系統建置案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261104&fn=BDM-1-71321189.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

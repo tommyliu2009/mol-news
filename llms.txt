@@ -4,11 +4,13 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-07（每日自動更新）
+- 更新：2026-11-08（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-07 10-12月企訓報：https://hrservice.wda.gov.tw/News/Detail/8BBCBA14A5F6C0EDBF35615211FE420162AAF216D3D78865A3DD7D45848718F9
+- 2026-11-07 行政院新聞傳播處「失智症防治照護政策綱領暨行動方案3.0」政策電子圖文說明資料：https://kpptr.wda.gov.tw/News_Content.aspx?n=47645573746633F4&sms=52387778D34E4FE3&s=E2BEA095DAD8FAE2
 - 2026-11-06 職災認定不再孤立無援！全台19家專責醫院打造 「診治、認定、復能」全方位守護網：https://www.mol.gov.tw/1607/1632/1633/100053/
 - 2026-11-06 勞動部與經濟部簽署合作備忘錄，攜手推動智慧減災技術：https://www.mol.gov.tw/1607/1632/1633/100067/
 - 2026-11-06 掌握產業新趨勢 引領青年精準接軌 高分署辦理重點產業輪廓報告分享會：https://kpptr.wda.gov.tw/News_Content.aspx?n=CD0EC8D01432D27B&sms=90DB06FF66BF4D00&s=C08790911B9DCB52
@@ -32,8 +34,6 @@
 - 2026-11-05 【經公開評選或公開徵求之限制性招標】「116年度青年人才培訓計畫彙管作業服務」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153084.xml
 - 2026-11-05 【經公開評選或公開徵求之限制性招標】116年度員工協助方案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153626.xml
 - 2026-11-05 【經公開評選或公開徵求之限制性招標】116年度在校青年職業訓練相關計畫彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153004.xml
-- 2026-11-05 【經公開評選或公開徵求之限制性招標】116年度就業促進計畫-彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153269.xml
-- 2026-11-05 【經公開評選或公開徵求之限制性招標】116年度社會創新及創業專題報導文稿編撰：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261105&fn=TIQ-3-71153107.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

@@ -4,11 +4,27 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-09（每日自動更新）
+- 更新：2026-11-10（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-09 勞動部勞工保險局龍潭倉庫7樓倉庫新作塑膠拉門採購案：https://www.bli.gov.tw/0110315.html
+- 2026-11-09 勞動部修正發布《違反勞動基準法及最低工資法裁處罰鍰共通性原則》，納入最低工資規範，違法按次累加罰鍰：https://www.mol.gov.tw/1607/1632/1633/100074/
+- 2026-11-09 【決標】116年度創業諮詢輔導服務計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325441.xml
+- 2026-11-09 【決標】「115年危老起重機安全風險預防計畫」第一次增補契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325891.xml
+- 2026-11-09 【公開取得報價單或企劃書】116年空調冰水主機系統定期保養：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-11-71155477.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度委託辦理「社會安全網轉介就業服務e點通資訊管理系統功能擴增暨維護案」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155412.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度員工協助方案推動計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155666.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年職訓及就服業務推廣⾏銷採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155815.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度資訊設備維護委託服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155821.xml
+- 2026-11-09 【決標】115-116年自辦職業訓練場監控設備維護及擴增開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325595.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116-117年度本署辦公大樓清潔服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155534.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度勞動法務業務委外作業案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71156086.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116-117年輔導建構職能導向課程計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155990.xml
+- 2026-11-09 【決標】116年機關整合行銷勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=aaa-71326666.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年機關行銷委託計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71156061.xml
+- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度就業安定費管理資訊系統功能調整及維運案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155706.xml
 - 2026-11-08 116年勞動部勞動力發展署桃竹苗分署【計畫推動說明會】：https://hrservice.wda.gov.tw/Activity/Detail/FB671059DDD07C45F964E7836FCE022141512714552271B9AE434E7DDF2CB3FB
 - 2026-11-07 10-12月企訓報：https://hrservice.wda.gov.tw/News/Detail/8BBCBA14A5F6C0EDBF35615211FE420162AAF216D3D78865A3DD7D45848718F9
 - 2026-11-07 行政院新聞傳播處「失智症防治照護政策綱領暨行動方案3.0」政策電子圖文說明資料：https://kpptr.wda.gov.tw/News_Content.aspx?n=47645573746633F4&sms=52387778D34E4FE3&s=E2BEA095DAD8FAE2
@@ -18,22 +34,6 @@
 - 2026-11-06 【甄試訊息】115年自辦職前訓練「巧克力與甜點輕食製作(台南)第05期」11月9日甄試注意事項：https://yct168.wda.gov.tw/News_Content.aspx?n=3457B06B7217EC61&sms=9F8CD839BDD2F62F&s=55F03A1DD0968728
 - 2026-11-06 【採購公告】「委託辦理116年適性就業輔導促進就業暨強化就業諮詢服務功能計畫」採購案（案號：tcnr1150141）評選結果公告：https://tcnr.wda.gov.tw/News_Content.aspx?n=4272F75C8646AA45&sms=EAA94642D68862F3&s=14D9D29EE67902F8
 - 2026-11-06 職安署辦理首梯新進職場霸凌查察員申訴調查教育訓練，提升案件調查處理專業知能：https://www.osha.gov.tw/48110/48417/48423/215216/post
-- 2026-11-06 本署南區職業安全衛生中心訂於115年11月25日(星期三)08時30分至11時30分假臺灣菸酒股份有限公司善化啤酒廠福利大樓二樓禮堂（地址：臺南市善化區小新里成功路2號）舉辦「115年度職業安全衛生法新修法規宣導(危險性機械職業災害預防)教育訓練」：https://www.osha.gov.tw/48110/48417/48425/215220/post
-- 2026-11-06 提升在職訓練品質 北分署輔導工會從源頭優化課程、接軌產業需求：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=FE04360B3F5FF536&sms=45F7BA4F91C26F12&s=E0745E347569F636
-- 2026-11-06 本署北區職業安全衛生中心謹訂於115年11月18日假台灣自來水股份有限公司第三區管理處三樓大禮堂舉辦「缺氧/局限空間作業安全衛生教育訓練暨工安觀摩說明會」，歡迎受通知事業單位報名參加！：https://www.osha.gov.tw/48110/48417/48425/214825/post
-- 2026-11-06 活動地點： 勞動部職業安全衛生署9樓階梯教室（地址：新北市新莊區中平路439號南棟9樓）：https://www.osha.gov.tw/48110/48417/48425/215125/post
-- 2026-11-06 職安署(北區職業安全衛生中心)訂於115年12月1日(星期二)上午8時50分與連江縣政府共同辦理115年度「缺氧/局限空間危害預防與案例分析(連江縣)」，歡迎踴躍報名參加。：https://www.osha.gov.tw/48110/48417/48425/215186/post
-- 2026-11-06 職場霸凌防治新制之實務及因應工作坊(南部場)：https://www.osha.gov.tw/48110/48417/48425/215231/post
-- 2026-11-06 【決標】115至116年度公平招募支持措施整合行銷宣導採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=BDM-1-71324504.xml
-- 2026-11-06 【決標】116-117年職業訓練CNC設備維修保養開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=BDM-1-71324675.xml
-- 2026-11-06 【決標】116年度委託民間機構辦理商業類職業訓練：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=BDM-1-71325167.xml
-- 2026-11-06 【公開招標】116年度辦公五金年度合約需求採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-1-71154736.xml
-- 2026-11-06 【經公開評選或公開徵求之限制性招標】116年度推動職能課程、技能檢定暨職業訓練計畫-彙管作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-3-71153783.xml
-- 2026-11-06 【經公開評選或公開徵求之限制性招標】116-117年度「AI智慧製造產業人才培訓據點」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-3-71153863.xml
-- 2026-11-06 【經公開評選或公開徵求之限制性招標】勞工健康服務效能策進及效益評估計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-3-71154878.xml
-- 2026-11-06 【經公開評選或公開徵求之限制性招標】116年「當前勞動及人力資源重要議題之資訊蒐集服務」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-3-71154974.xml
-- 2026-11-06 【經公開評選或公開徵求之限制性招標】勞動部勞工保險局116年度委託協助處理強化加保及給付查核作業案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-3-71155257.xml
-- 2026-11-06 【經公開評選或公開徵求之限制性招標】116年度及117年度外國人申請案件處理業務外包計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261106&fn=TIQ-3-71155242.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

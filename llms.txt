@@ -4,11 +4,24 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-11（每日自動更新）
+- 更新：2026-11-12（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-11 【職安署公告】工業通風專區| 最新消息：https://3kto3c.osha.gov.tw/views/news_page/119/
+- 2026-11-11 看見移工的努力，也讓這份肯定被更多人看見 116年度全國模範移工選拔開跑：https://www.wda.gov.tw/News_Content.aspx?n=31&s=19522
+- 2026-11-11 114年度職業災害預防及職業災害勞工重建補助案「醬油釀造工人吸入致病性麴菌之血清學流行病學調查」計畫成果報告：https://www.osha.gov.tw/48110/48363/133486/162384/211080/?cprint=pt
+- 2026-11-11 【決標】116年度勞職保及保護行政事項之行政事務勞務委外案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327236.xml
+- 2026-11-11 【決標】五股職業訓練場訓練用樣品切割機1臺：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=BDM-1-71327445.xml
+- 2026-11-11 【公開取得報價單或企劃書】116年服務中心室內外暨入口造型鋼架裝修工程 委託規劃、設計、監造案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-11-71159558.xml
+- 2026-11-11 【經公開評選或公開徵求之限制性招標】委託辦理116年直接聘僱聯合服務中心計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71159642.xml
+- 2026-11-11 【經公開評選或公開徵求之限制性招標】116年度推動自辦訓練業務專案計畫彙管委託作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71159800.xml
+- 2026-11-11 【經公開評選或公開徵求之限制性招標】116年度術科測試核心系統功能調整及維運案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71160004.xml
+- 2026-11-11 【經公開評選或公開徵求之限制性招標】116年度桃竹苗區銀髮人才資源中心彙管業務勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71160046.xml
+- 2026-11-11 【公開取得報價單或企劃書】116年度見習教學遊覽車租賃開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=ttd-71378912.xml
+- 2026-11-11 【經公開評選或公開徵求之限制性招標】116年度青年就業達人班計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71160082.xml
+- 2026-11-11 【經公開評選或公開徵求之限制性招標】116年度技能檢定核心相關系統維運暨功能調整案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261111&fn=TIQ-3-71160080.xml
 - 2026-11-10 2026產業安全領航高峰論壇 展現機械安全與科技防災成果：https://www.osha.gov.tw/48110/48417/48419/215277/post
 - 2026-11-10 鼓勵民間團體踴躍辦理職災預防及重建宣導，勞動部放寬補助規定：https://www.mol.gov.tw/1607/1632/1633/100082/
 - 2026-11-10 【採購公告】「116年就服據點勞務需求承攬計畫」 (案號:tcnr1150119)評選結果公告：https://tcnr.wda.gov.tw/News_Content.aspx?n=4272F75C8646AA45&sms=EAA94642D68862F3&s=F1365580447C11FB
@@ -16,27 +29,13 @@
 - 2026-11-10 職安署(北區職業安全衛生中心)訂於115年12月2日(星期三)上午8時40分辦理115年度「缺氧/局限空間危害預防與案例分析(新竹場二)」說明會，歡迎踴躍報名參加。：https://www.osha.gov.tw/48110/48417/48425/215280/post
 - 2026-11-10 職安署(北區職業安全衛生中心)訂於115年11月30日(星期一)上午8時40分辦理115年度「缺氧/局限空間危害預防與案例分析(新竹場一)」說明會，歡迎踴躍報名參加。：https://www.osha.gov.tw/48110/48417/48425/215273/post
 - 2026-11-10 115年度企業人力資源提升計畫、充電起飛計畫【計畫提案撰寫說明會】(桃園場) 已開放報名：https://hrservice.wda.gov.tw/News/Detail/8BBCBA14A5F6C0EDBF35615211FE4201A9CDD3589B7809E309273DD28EC8D23D
-- 2026-11-09 勞動部勞工保險局龍潭倉庫7樓倉庫新作塑膠拉門採購案：https://www.bli.gov.tw/0110315.html
-- 2026-11-09 勞動部修正發布《違反勞動基準法及最低工資法裁處罰鍰共通性原則》，納入最低工資規範，違法按次累加罰鍰：https://www.mol.gov.tw/1607/1632/1633/100074/
-- 2026-11-09 【決標】116年度創業諮詢輔導服務計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325441.xml
-- 2026-11-09 【決標】「115年危老起重機安全風險預防計畫」第一次增補契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325891.xml
-- 2026-11-09 【公開取得報價單或企劃書】116年空調冰水主機系統定期保養：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-11-71155477.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度委託辦理「社會安全網轉介就業服務e點通資訊管理系統功能擴增暨維護案」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155412.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度員工協助方案推動計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155666.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年職訓及就服業務推廣⾏銷採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155815.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度資訊設備維護委託服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155821.xml
-- 2026-11-09 【決標】115-116年自辦職業訓練場監控設備維護及擴增開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=BDM-1-71325595.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116-117年度本署辦公大樓清潔服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155534.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度勞動法務業務委外作業案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71156086.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116-117年輔導建構職能導向課程計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155990.xml
-- 2026-11-09 【決標】116年機關整合行銷勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=aaa-71326666.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年機關行銷委託計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71156061.xml
-- 2026-11-09 【經公開評選或公開徵求之限制性招標】116年度就業安定費管理資訊系統功能調整及維運案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261109&fn=TIQ-3-71155706.xml
-- 2026-11-08 116年勞動部勞動力發展署桃竹苗分署【計畫推動說明會】：https://hrservice.wda.gov.tw/Activity/Detail/FB671059DDD07C45F964E7836FCE022141512714552271B9AE434E7DDF2CB3FB
-- 2026-11-07 10-12月企訓報：https://hrservice.wda.gov.tw/News/Detail/8BBCBA14A5F6C0EDBF35615211FE420162AAF216D3D78865A3DD7D45848718F9
+- 2026-11-10 強制及自願投保單位之保險費繳納方式及手續費：https://www.bli.gov.tw/0106667.html
+- 2026-11-10 【決標】115年度全國模範勞工出國參訪活動採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=BDM-1-71326919.xml
+- 2026-11-10 【決標】勞動部勞工保險局116年委託裝封寄發各項表單作業案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=BDM-1-71327171.xml
+- 2026-11-10 【公開招標】116年度遊覽車租賃年度合約需求採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=TIQ-1-71157976.xml
+- 2026-11-10 【決標】115-117年公文檔案管理系統維運案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261110&fn=BDM-1-71326965.xml
 
 ## 相關網站
-- 補助王：https://www.subsidyking.tw/
 - 新住民&新移民全球新聞網：https://web1.subsidyking.tw/
 - 新住民創業網：https://web15.subsidyking.tw/
 - 台灣政府補助新聞網：https://news.subsidyking.tw/

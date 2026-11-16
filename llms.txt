@@ -4,36 +4,36 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-16（每日自動更新）
+- 更新：2026-11-17（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-13 美國勞工部國際處及美國在台協會(AIT)官員拜會本所：https://www.ilosh.gov.tw/90734/90769/90779/215499/post
-- 2026-11-13 國立空中大學林谷燕副教授率德國聯邦就業發展署附屬大學6名學生參訪本所勞安加衛體驗館：https://www.ilosh.gov.tw/90734/90769/90779/215495/post
-- 2026-11-13 115年11月28日(星期六)為115年地方公職人員選舉及全國性公民投票日，具投票權且該日原屬工作日之勞工，依法放假一日：https://www.mol.gov.tw/1607/1632/1633/100094/
-- 2026-11-13 韓國環境公社拜會本所及交流座談：https://www.ilosh.gov.tw/90734/90769/90779/215508/post
-- 2026-11-13 APEC工作坊國外訪賓參訪本所勞安加衛體驗館：https://www.ilosh.gov.tw/90734/90769/90779/215512/post
-- 2026-11-13 115年11月9日土耳其鋼鐵廠天車墜落及爆炸重大事故案例：https://www.osha.gov.tw/48110/48417/162283/162289/215486/post
-- 2026-11-13 勞動部勞工保險局委託辦理「116年度就業保險費率精算及財務評估」案：https://www.bli.gov.tw/0110319.html
-- 2026-11-13 【決標】2027年無紙化現場徵才活動電腦網路及電力配置勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=BDM-1-71330745.xml
-- 2026-11-13 【決標】116年教學大樓及敬業館等建築物清潔維護友善採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=BDM-1-71331151.xml
-- 2026-11-13 【公開招標】116年度技術士技能檢定材料電工材料類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-1-71161501.xml
-- 2026-11-13 【公開招標】職業訓練與促進就業-116年北分署公務接駁運輸服務(北區)開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-1-71163450.xml
-- 2026-11-13 【經公開評選或公開徵求之限制性招標】委託辦理「116年度產業人才投資方案業務工作」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-3-71162043.xml
-- 2026-11-13 【經公開評選或公開徵求之限制性招標】116年度「財物管理資訊系統維護及功能擴充案」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-3-71162597.xml
-- 2026-11-13 【公開取得報價單或企劃書】116年勞工政策與職業安全衛生新聞輿情彙整通報勞務委外案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=ttd-71383203.xml
-- 2026-11-13 【經公開評選或公開徵求之限制性招標】「116年度委託民間團體辦理少年就業力準備計畫暨社會安全網就業服務計畫」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-3-71163141.xml
-- 2026-11-13 【公開取得報價單或企劃書】115年「青年職涯發展中心臺中據點光纖網路優化採購案」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-11-71162493.xml
-- 2026-11-13 【公開招標】116年度技術士技能檢定材料刀具類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-1-71161572.xml
-- 2026-11-13 【公開取得報價單或企劃書】116年社群媒體經營管理案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=ttd-71384492.xml
-- 2026-11-13 【經公開評選或公開徵求之限制性招標】116年多元就業開發方案系統及網站功能擴充暨維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-3-71162067.xml
-- 2026-11-13 【經公開評選或公開徵求之限制性招標】116年度文書暨庶務工作勞務承攬案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-3-71163461.xml
-- 2026-11-13 【公開取得報價單或企劃書】116年度學員學習履歷資訊網系統維護服務勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=ttd-71384194.xml
-- 2026-11-13 【公開招標】116年度技術士技能檢定材料鋼材類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-1-71161996.xml
-- 2026-11-13 【公開取得報價單或企劃書】「116年度幼獅訓練場學員健康照護暨醫護駐點服務計畫」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=ttd-71384247.xml
-- 2026-11-13 【公開招標】116年度技術士技能檢定材料試片加工類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-1-71162014.xml
-- 2026-11-13 【經公開評選或公開徵求之限制性招標】116年度分署園區活動中心及學員宿舍屋頂防水隔熱及綜合大樓雨遮周邊修繕工程委託設計監造技術服務案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261113&fn=TIQ-3-71160898.xml
+- 2026-11-16 性別平等工作法部分條文修正新制Q&A：https://www.mol.gov.tw/1607/28162/28166/90735/100097/
+- 2026-11-16 勞動部勞工保險局115年9月相關統計：https://www.mol.gov.tw/1607/1632/2665/100038/post
+- 2026-11-16 XR科技助攻水電維修訓練 桃竹苗分署培育21名國際技職人才：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=F3F41260351F67C2
+- 2026-11-16 桃竹苗分署力挺企業人才培育 7家績優企業獲表揚：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=05F2ADA4787D2135
+- 2026-11-16 116年度「小型企業人力提升計畫」首場公開說明會開始報名！：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=485942419332C50C&sms=F7376EA5ABF578F3&s=8FAC36D62CBD15D9
+- 2026-11-16 從SEO專才到整合行銷 北分署產業新尖兵助青年拓展策略視野、升級職涯：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=FE04360B3F5FF536&sms=45F7BA4F91C26F12&s=1CD4976BCFC92E30
+- 2026-11-16 116年度「企業人力資源提升計畫」暨「充電起飛計畫」首場計畫公開說明會及撰寫說明會開始報名！：https://tkyhkm.wda.gov.tw/News_Content.aspx?n=485942419332C50C&sms=F7376EA5ABF578F3&s=0711B0316A1DB816
+- 2026-11-16 【採購公告】「116年支援青年就業計畫勞務採購案」（案號：tcnr1150124）評選結果公告：https://tcnr.wda.gov.tw/News_Content.aspx?n=4272F75C8646AA45&sms=EAA94642D68862F3&s=25E98F2306CAF7BE
+- 2026-11-16 【決標】勞動部勞工保險局116-117年度總務出納暨薪資系統維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=BDM-1-71332133.xml
+- 2026-11-16 【公開招標】115-117年度學員實習電工控制材料年度合約需求採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163745.xml
+- 2026-11-16 【公開招標】116年度訓練材料電銲材料類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163994.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116年度青年職業訓練計畫彙管委託作業服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71163595.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116年度委託民間機構辦理商業類職業訓練：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71163632.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116年度強化勞動力發展國際合作專案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71163654.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116 年度戶外高氣溫作業及有害粉塵防護補助作業管理計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71163856.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116年度單一帳號暨認證授權控管平台系統擴充及維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71163926.xml
+- 2026-11-16 【公開取得報價單或企劃書】115年學員宿舍公共空間桌椅家具財物採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-11-71163758.xml
+- 2026-11-16 【公開招標】116年度訓練材料鋼材類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163995.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】「116年度促進特定對象暨弱勢者就業服務整合計畫」勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71164019.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116年促進中高齡者及高齡者就業相關補助計畫系統維護及增修案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71163781.xml
+- 2026-11-16 【公開取得報價單或企劃書】116年勞動統計資料庫系統維護：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=ttd-71386132.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116年臺中訓練場園區戶外環境清潔暨景觀維護案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71164409.xml
+- 2026-11-16 【公開招標】116年度訓練材料資訊電子類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163997.xml
+- 2026-11-16 【經公開評選或公開徵求之限制性招標】116年度「青年職業訓練資源網站暨資訊管理系統」維運案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-3-71163925.xml
+- 2026-11-16 【公開招標】116年度訓練材料刀具類開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261116&fn=TIQ-1-71163999.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/

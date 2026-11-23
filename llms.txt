@@ -4,11 +4,26 @@
 
 - 網址：https://web10.subsidyking.tw/
 - 主題：勞動部新聞與就業政策
-- 更新：2026-11-23（每日自動更新）
+- 更新：2026-11-24（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-23 新竹就業中心訂於12月16日(星期三 )14:00~16:00，辦理：https://thmr.wda.gov.tw/News_Content.aspx?n=7737DC0A29BAF37F&sms=EC0931DF6A3357E3&s=5692850C14D088AC
+- 2026-11-23 新竹就業中心訂於12月2日(星期三 )14:00~16:00，辦理：https://thmr.wda.gov.tw/News_Content.aspx?n=DB16A30E69ED016B&sms=EC0931DF6A3357E3&s=A5F981A09B0C50E7
+- 2026-11-23 新竹就業中心訂於12月4日及12月18日(星期五 )14:00~16:00，辦理：https://thmr.wda.gov.tw/News_Content.aspx?n=DB16A30E69ED016B&sms=EC0931DF6A3357E3&s=B929DA7B9317FF48
+- 2026-11-23 文化部語言友善環境及創作應用與推廣補助作業要點116年第1次補助案申請訊息：https://kpptr.wda.gov.tw/News_Content.aspx?n=47645573746633F4&sms=52387778D34E4FE3&s=CBDAFF8ED19F7F2B
+- 2026-11-23 勞動部勞動力發展署115年公開標售報廢財產、物品及廢品各1批：https://www.wda.gov.tw/News_Content.aspx?n=63&s=19543
+- 2026-11-23 教育部訊息：委託國立空中大學辧理「非正規教育數位課程製作輔導暨補助計畫」：https://kpptr.wda.gov.tw/News_Content.aspx?n=47645573746633F4&sms=52387778D34E4FE3&s=20FDD1BABE704768
+- 2026-11-23 勞保局公布欠繳保險費及不得預收保險費之職業工會名單，提醒勞工注意自身權益：https://www.bli.gov.tw/0110337.html
+- 2026-11-23 職安署南區中心與臺南市總工業會訂於115年11月25日(星期三)08時50分至12時30分，假臺南市總工業會（地址：臺南市永康區中華路425號22樓之2）辦理「改善事業單位安全衛生設施與勞工作業環境研習會」一場次。：https://www.osha.gov.tw/48110/48417/48425/216783/?cprint=pt
+- 2026-11-23 第57屆北區分區技能競賽場地公告(報名簡章未公告職類)：https://thmr.wda.gov.tw/News_Content.aspx?n=DE4C0FE1DE37E6E0&sms=6A5E82A16F18A41D&s=298789631B124AAA
+- 2026-11-23 新竹就業中心訂於12月11日(星期五 )13:00~16:00，辦理：https://thmr.wda.gov.tw/News_Content.aspx?n=7737DC0A29BAF37F&sms=EC0931DF6A3357E3&s=31ED6716D9B212E9
+- 2026-11-23 【決標】116年度商業與資訊類委外職前訓練勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=BDM-1-71338977.xml
+- 2026-11-23 【決標】115-117年叫號系統功能調整維護暨相關設備採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=BDM-1-71339379.xml
+- 2026-11-23 【經公開評選或公開徵求之限制性招標】116年度「危害性化學品及GHS制度推動精進計畫」：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=TIQ-3-71171920.xml
+- 2026-11-23 【決標】勞動部勞工保險局116年勞工保險被保險人紓困貸款報紙公告案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=aaa-71340009.xml
+- 2026-11-23 【公開取得報價單或企劃書】「南區職業安全衛生中心116年度辦公廳舍清潔維護」採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261123&fn=ttd-71395195.xml
 - 2026-11-21 1. 我要怎麼知道老闆有沒有按時為我繳納退休金？如何查詢勞工個人專戶金額？：https://www.bli.gov.tw/0017625.html
 - 2026-11-20 勞動部勞動力發展署桃竹苗分署秉持霸凌零容忍，苗栗就業中心案已進入調查並落實保護：https://thmr.wda.gov.tw/News_Content.aspx?n=8482D72A044AB968&sms=10478933D4058B5B&s=0A9B2937AD12EB84
 - 2026-11-20 勞動部勞工保險局116-117年差勤電子表單系統(WebITR)維護案：https://www.bli.gov.tw/0110336.html
@@ -19,21 +34,6 @@
 - 2026-11-20 37.雇主需要為無戶籍(未領有國民身分證)國民提繳退休金嗎?如果要應如何辦理?：https://www.bli.gov.tw/0110334.html
 - 2026-11-20 勞動部勞工保險局全球資訊網-勞工退休金-FAQ-勞工退休金提停繳-36.勞工退休金條例之本國籍勞工是指?：https://www.bli.gov.tw/0110333.html
 - 2026-11-20 轉帳代繳辦理須知：https://www.bli.gov.tw/0012981.html
-- 2026-11-20 所得未達一定標準諮詢專線：https://www.bli.gov.tw/0019854.html
-- 2026-11-20 勞動部勞工保險局全球資訊網-勞工退休金-FAQ-1. 如何計算個別勞工退休金專戶之收益金額？每年什麼時候辦理收益分配？我要怎麼知道我的退休金分配到多少收益？若勞退基金運用產生虧損時怎麼辦？會影響我的退休金（本金）嗎？：https://www.bli.gov.tw/0017638.html
-- 2026-11-20 職業工會、漁會加退保規定：https://www.bli.gov.tw/0105267.html
-- 2026-11-20 勢如破竹！勞發署高分署輔導4位微型創業家獲楷模殊榮：https://kpptr.wda.gov.tw/News_Content.aspx?n=CD0EC8D01432D27B&sms=90DB06FF66BF4D00&s=AA9502602A592C68
-- 2026-11-20 【決標】116年多元培力諮詢服務計畫勞務承攬案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71336884.xml
-- 2026-11-20 【決標】115年度商業類委外職前訓練勞務採購案-短影音廣告製作實務班-後續擴充：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71336897.xml
-- 2026-11-20 【決標】116年度辦理適性就業輔導失業者暨受貿易自由化影響之勞工促進就業計畫：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337326.xml
-- 2026-11-20 【決標】115-116年模板及裝潢木工檢定材料開口契約：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337679.xml
-- 2026-11-20 【決標】勞動部勞工保險局116-117年度委託金融機構代發各類保險給付及勞工退休金等款項案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71338134.xml
-- 2026-11-20 【公開招標】116年-117年委託代收技術士技能檢定費用(開口契約)：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=TIQ-1-71169871.xml
-- 2026-11-20 【經公開評選或公開徵求之限制性招標】116年勞動部電子公文檔案管理系統增修暨擴充案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=TIQ-3-71169835.xml
-- 2026-11-20 【決標】泰山職業訓練場冷凍空調教室冰水主機移機：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=aaa-71338486.xml
-- 2026-11-20 【決標】「2027年竹苗地區現場徵才活動」開口契約勞務採購案：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71337587.xml
-- 2026-11-20 【決標】115年度商業類委外職前訓練勞務採購案-AI數位商務與新媒體營運實戰班-後續擴充：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=BDM-1-71336898.xml
-- 2026-11-20 【經公開評選或公開徵求之限制性招標】116年精密機械實習工場環境改善工程委託設計監造技術服務：https://web.pcc.gov.tw/prkms/tender/common/noticeDate/redirectPublic?ds=20261120&fn=TIQ-3-71168176.xml
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
